@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+h1{
+  color: rgb(115, 211, 6);
+  font-family:monospace;
+  margin: 12px;
+  font-size: 3rem;
+}
+button{
+  color: blueviolet;
+  background-color: azure;
+  border: 2px solid grey;
+  border-radius: 5px;
+  font-size: 20px;
+  margin-top: 12px;
+}
